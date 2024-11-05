@@ -9,7 +9,7 @@ Open your terminal or command prompt.
 Use the `git clone` command, followed by the repository URL
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/arturoCrisanto/acitvity_git.git
 ```
 
 Replace <repository-url> with the URL you copied.
@@ -23,6 +23,10 @@ cd <repository-name>
 ```
 
 Replace <repository-name> with the name of the folder created during cloning (usually the name of the repository).
+
+## create a readme.md file
+
+create a readme file and put `surname activity git` and save
 
 ## To create a new branch in an existing repository, you can use the Git command line or a Git GUI tool. Here’s how to do it with Git commands:
 
