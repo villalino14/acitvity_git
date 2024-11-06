@@ -19,7 +19,7 @@ Replace <repository-url> with the URL you copied.
 After cloning, move into the new directory created by the clone command
 
 ```bash
-cd activity_git
+cd acitvity_git
 ```
 
 Replace <repository-name> with the name of the folder created during cloning (usually the name of the repository).
